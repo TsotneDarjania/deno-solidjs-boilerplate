@@ -26,4 +26,4 @@ Clone the repository and cache dependencies:
 ```bash
 git clone https://github.com/TsotneDarjania/deno-solidjs-boilerplate.git
 cd deno-solidjs-ssr-boilerplate
-deno run --allow-net --allow-read main.tsdeno cache main.ts
+deno run dev
